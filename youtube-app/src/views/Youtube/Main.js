@@ -4,7 +4,6 @@ import Card from "@mui/joy/Card";
 import CardCover from "@mui/joy/CardCover";
 import CardContent from "@mui/joy/CardContent";
 import Typography from "@mui/joy/Typography";
-import { color } from "@mui/system";
 export const Main = () => {
   return (
     <Grid
