@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.carousel {
+  display: flex;
+  width: 900px;
+  flex-wrap: nowrap;
+  overflow: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .carousel {
+    display: flex;
+    width: 900px;
+    flex-wrap: nowrap;
+    overflow: auto;
+  }
+  
+}

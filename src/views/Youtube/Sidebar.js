@@ -2,7 +2,7 @@ import React from "react";
 import Grid from "@mui/joy/Grid";
 export const Sidebar = () => {
   return (
-    <Grid item direction="column" bgcolor={"grey"} lg={2} pl={2} >
+    <Grid >
       <h4>Home</h4>
       <h4>Shorts</h4>
       <h4>Subscriptions</h4>
