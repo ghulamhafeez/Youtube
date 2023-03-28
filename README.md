@@ -10,7 +10,9 @@ The project primarily uses following technologies:
 - Material Ui
 
 
-## ScreenShot
+## UI
+![Screenshot 2023-03-28 163816](https://user-images.githubusercontent.com/76959464/228226786-1c5aaa9a-839f-4bf4-a1a1-03948a40d484.png)
+![Screenshot 2023-03-28 164955](https://user-images.githubusercontent.com/76959464/228226974-ff80408c-ee36-4a45-aca9-cf52e791cdd1.png)
 
 ## Video
 
